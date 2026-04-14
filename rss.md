@@ -21,3 +21,11 @@ PoliticalBetting: https://www1.politicalbetting.com/index.php/feed/
 Iain Dale: https://iaindale.com/feed/
 John Redwood’s Diary: https://johnredwoodsdiary.com/feed/
 Guido Fawkes: https://feeds.feedburner.com/guidofawk
+
+---
+
+Designing and implementing a quantum risk governance and control framework (including policies, standards, and risk taxonomy)
+Providing independent review and challenge of the first line’s quantum initiatives, including use cases, architecture, and third-party dependencies
+Developing and embedding quantum risk assessment methodologies, including initial Post-Quantum Cryptography (PQC) readiness indicators
+Producing executive-level reporting and awareness on quantum risk exposure and strategic implications for the bank
+Monitoring regulatory, technological, and threat landscape developments to ensure proactive risk positioning
