@@ -16,3 +16,30 @@ The sole material historical consideration is **civil governance litigation (201
 [[Snowflake Customer Story, 2026]] = Public case study on TS Imagine's AI/data platform integration
 
 > **Bottom Line**: Mentioning the July 2020 dismissal strengthens the brief by demonstrating thoroughness, providing specificity, and preempting follow-up questions—while keeping the overall risk conclusion unchanged (low current risk, resolved historical matters).
+
+
+---
+
+Yes—during the research, I identified one additional litigation matter that was evaluated but not included in the final CRO brief:
+
+### *Egan v. TradingScreen, Inc.* (Whistleblower/Employment Matter)
+
+| Detail | Information |
+| :--- | :--- |
+| **Nature of Claim** | Plaintiff Patrick Egan alleged retaliation under Dodd-Frank whistleblower provisions, claiming CEO Philippe Buhannic diverted corporate assets/opportunities [[47,57]] |
+| **Resolution** | Case resolved on procedural grounds related to anti-retaliation coverage; no substantive findings on the underlying asset-diversion allegations |
+| **Why Excluded from Brief** | • Procedural resolution limits risk relevance<br>• Allegations were already reflected in the broader governance context of the *Buhannic* litigation<br>• No regulatory penalty, monetary sanction, or admission of misconduct resulted<br>• Adding it would not change the overall "low historical risk" conclusion |
+
+### Other Items Screened and Excluded
+
+| Item | Reason for Exclusion |
+| :--- | :--- |
+| **Tangential "Imagine" name cases** (e.g., *Imagine Films Entertainment* disputes) | No corporate or LEI linkage to TS Imagine Inc.; distinct entities in unrelated sectors |
+| **General industry cybersecurity warnings** (e.g., third-party breach statistics) | Not entity-specific; included only as contextual risk awareness, not adverse findings |
+| **Board membership overlaps** (e.g., director also on Argos Blockchain board) | Adverse event (data breach) pertained solely to the separate entity, not TS Imagine |
+| **Pre-2016 historical references** | Outside the 10+ year review window specified; limited relevance to current risk profile |
+
+### Methodology Note
+All identified matters were assessed against your six-category framework. Items were included in the CRO brief only if they: (1) directly involved the LEI entity or its confirmed affiliate, (2) resulted in a substantive outcome (judgment, settlement, dismissal with prejudice), and (3) added incremental risk signal beyond what was already captured. The *Buhannic* dismissal was retained because it is the most material, resolved executive-risk event within the review period.
+
+If your risk appetite requires disclosure of *all* litigation regardless of outcome or relevance, the brief can be expanded to include a footnote referencing *Egan* and other screened-out matters. For a concise, signal-focused CRO summary, the current formulation prioritizes matters with the highest risk salience.
